@@ -68,10 +68,10 @@ def print_poetry(generated_text):
 # Example Usage
 st.title('Roman Urdu Poetry Generator')
 input_text = st.text_input('Enter the first few words of poetry:', '')
-
+num_words = st.number_input('Enter the number of words to generate:', min_value=5, max_value=100, value=20)
 if st.button('Generate Poetry'):
     if input_text:
-        generated_poetry = generate_poetry(input_text, model, vocab)
+        generated_poetry = generate_poetry(input_text, model, vocab,num_words)
         poetry=print_poetry(generated_poetry)
         print(poetry)
         st.subheader('Generated Poetry:')
