@@ -24,7 +24,7 @@ The Poetry Generation Project leverages deep learning models to generate creativ
 1. Clone the repository:
 
     ```bash
-    https://github.com/zuhairzaidi63/roman-urdu-poetry-generator.git
+    git clone https://github.com/zuhairzaidi63/roman-urdu-poetry-generator.git
     ```
 
 2. Install the required dependencies:
