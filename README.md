@@ -67,8 +67,9 @@ The Poetry Generation Project leverages deep learning models to generate creativ
 ├── requirements.txt          # Dependencies required to run the project
 └── simple_vocab.pkl          # Vocabulary file for text processing
 ```
-
-
+## 🌐 Live Demo  
+Check out the deployed version of this project:  
+🔗 [Live Website](https://ghazalbot.streamlit.app/)
 
 ## Contributing
 
