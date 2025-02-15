@@ -48,7 +48,7 @@ The Poetry Generation Project leverages deep learning models to generate creativ
 
 ## Example Usage
 
-1. If using a web interface (e.g., Streamlit or Flask), input a prompt like:
+1. Input a prompt like:
 
     > "aañkh se duur na ho dil"
 
