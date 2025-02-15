@@ -37,16 +37,10 @@ The Poetry Generation Project leverages deep learning models to generate creativ
     pip install -r requirements.txt
     ```
 
-3. Run the poetry generation script:
+3. Alternatively, if you're using a web interface:
 
     ```bash
-    python generate_poem.py
-    ```
-
-    Alternatively, if you're using a web interface:
-
-    ```bash
-    python app.py
+    streamlit run app.py
     ```
 
 4. Enter a theme or prompt when prompted, and the model will generate a poem.
@@ -68,4 +62,20 @@ The Poetry Generation Project leverages deep learning models to generate creativ
     The system will then generate a poem based on this input.
 
 ## Project Structure
+
+
+
+
+
+## Contributing
+
+Feel free to contribute to this project! If you have any ideas for improvements, bug fixes, or additional features, fork the repository, make your changes, and submit a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
+For any questions or issues, please feel free to open an issue on the GitHub repository.
+
 
