@@ -51,6 +51,17 @@ The Poetry Generation Project leverages deep learning models to generate creativ
 
 ## Project Structure
 
+   ├── .devcontainer/            # Dev Container configuration files
+   ├── dataset/                  # Contains datasets used for training the model
+   ├── Poetry_Generation_Task.ipynb  # Jupyter Notebook for poetry generation
+   ├── README.md                 # Project documentation
+   ├── app.py                    # Main application script
+   ├── dataset.zip               # Compressed dataset file
+   ├── poetry_lstm_model.pth     # Trained LSTM model file
+   ├── requirements.txt          # Dependencies required to run the project
+   └── simple_vocab.pkl          # Vocabulary file for text processing
+
+
 
 
 
