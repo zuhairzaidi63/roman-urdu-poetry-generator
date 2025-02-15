@@ -4,7 +4,7 @@ This project explores the creation of poetry using LSTM. The goal is to generate
 
 ## Project demo 
 
-![Alt text](images/demo.png)
+![Alt text](images/demo.jpg)
 
 
 ## Project Overview
