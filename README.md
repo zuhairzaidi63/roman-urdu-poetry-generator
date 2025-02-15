@@ -2,6 +2,11 @@
 
 This project explores the creation of poetry using LSTM. The goal is to generate human-like, creative poems based on first line of poem.
 
+## Project demo 
+
+![Alt text](images/demo.png)
+
+
 ## Project Overview
 
 The Poetry Generation Project leverages deep learning models to generate creative, meaningful poems based on user-provided input. It utilizes advanced NLP models to understand and generate verses, stanzas, and rhymes, creating poetry that mimics human-like creativity.
