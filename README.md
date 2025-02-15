@@ -75,6 +75,11 @@ Check out the deployed version of this project:
 
 Feel free to contribute to this project! If you have any ideas for improvements, bug fixes, or additional features, fork the repository, make your changes, and submit a pull request.
 
+## Blog  
+I have documented the process of building this project which you can read by clicking below:  
+🔗 [Read the Blog](https://medium.com/@zuhair.zaidi407/ai-powered-roman-urdu-poetry-generation-with-lstms-and-streamlit-afc0903f3623)
+
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
