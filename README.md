@@ -1,6 +1,6 @@
 # Poetry Generation Project
 
-This project explores the creation of poetry using Natural Language Processing (NLP) and machine learning techniques. The goal is to generate human-like, creative poems based on a given prompt or theme, utilizing pre-trained language models such as GPT-2, GPT-3, or custom RNN-based models.
+This project explores the creation of poetry using LSTM. The goal is to generate human-like, creative poems based on first line of poem.
 
 ## Project Overview
 
@@ -9,18 +9,15 @@ The Poetry Generation Project leverages deep learning models to generate creativ
 ## Key Features
 
 - **Creative Poetry Generation**: Generate poems from a variety of themes and prompts, such as love, nature, and life.
-- **Pre-trained Language Models**: Use powerful pre-trained models like GPT-2 or GPT-3 to generate high-quality text.
-- **Customizable Output**: Users can specify a length, theme, or style of poem, and the model will adapt its output.
-- **Rhyming and Structure**: The system can be configured to generate poems with specific rhyme schemes and meter.
+- **Customizable Output**: Users can specify a length, and the model will adapt its output.
 - **User Interaction**: Allows users to interactively input prompts and get generated poems in real-time.
 
 ## Technologies Used
 
 - **Python**: Primary programming language for NLP and machine learning models.
-- **Hugging Face Transformers**: To use pre-trained language models like GPT-2 and GPT-3.
-- **TensorFlow / PyTorch**: Deep learning frameworks for training models (if applicable).
+- **PyTorch**: Deep learning frameworks for training models (if applicable).
 - **NLTK**: For natural language processing tasks such as tokenization, part-of-speech tagging, and more.
-- **Flask / Streamlit**: For creating a web interface or interactive platform for poem generation.
+- **Streamlit**: For creating a web interface or interactive platform for poem generation.
 
 ## Setup Instructions
 
