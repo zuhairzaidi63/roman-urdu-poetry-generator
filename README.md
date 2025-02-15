@@ -47,17 +47,9 @@ The Poetry Generation Project leverages deep learning models to generate creativ
 
 ## Example Usage
 
-1. Run the script with a command line prompt:
+1. If using a web interface (e.g., Streamlit or Flask), input a prompt like:
 
-    ```bash
-    python generate_poem.py --prompt "A poem about the beauty of the night"
-    ```
-
-    This will generate a poem with the given theme.
-
-2. If using a web interface (e.g., Streamlit or Flask), input a prompt like:
-
-    > "Write a poem about the changing seasons."
+    > "aañkh se duur na ho dil"
 
     The system will then generate a poem based on this input.
 
